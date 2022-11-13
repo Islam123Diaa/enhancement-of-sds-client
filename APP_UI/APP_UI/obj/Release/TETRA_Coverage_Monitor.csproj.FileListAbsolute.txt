@@ -1,0 +1,5 @@
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Release\TETRA_Coverage_Monitor.exe.config
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\obj\Release\UCMapView.g.cs
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\obj\Release\TETRA_Coverage_Monitor_Content.g.cs
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\obj\Release\TETRA_Coverage_Monitor_MarkupCompile.cache
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\obj\Release\TETRA_Coverage_Monitor_MarkupCompile.lref

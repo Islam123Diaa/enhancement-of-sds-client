@@ -1,0 +1,12 @@
+
+ Class = View , Method = load_zones , Error = Index was outside the bounds of the array.
+
+ Class = View , Method = load_Sites , Error = Index was outside the bounds of the array.
+
+ Class = View , Method = load_radios , Error = Index was outside the bounds of the array.
+
+ Class = View , Method = show_current_talkgroup , Error = Unable to cast object of type 'System.Windows.Forms.ToolStripComboBox' to type 'System.Windows.Forms.ToolStripDropDownButton'.
+
+ Class = View , Method = show_current_talkgroup , Error = Unable to cast object of type 'System.Windows.Forms.ToolStripComboBox' to type 'System.Windows.Forms.ToolStripDropDownButton'.
+
+ Class = View , Method = show_current_talkgroup , Error = Unable to cast object of type 'System.Windows.Forms.ToolStripComboBox' to type 'System.Windows.Forms.ToolStripDropDownButton'.

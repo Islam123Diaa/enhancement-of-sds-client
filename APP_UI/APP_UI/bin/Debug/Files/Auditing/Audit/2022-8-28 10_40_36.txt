@@ -1,0 +1,2 @@
+
+ Class = View , Method = btn_view_coverage_all_sites_Click_1 , Error = Collection was modified; enumeration operation may not execute.

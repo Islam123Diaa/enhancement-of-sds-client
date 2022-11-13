@@ -1,0 +1,544 @@
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\APP_UI.exe.config
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\APP_UI.exe
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\APP_UI.pdb
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\obj\Debug\APP_UI.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\obj\Debug\APP_UI.LoginForm.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\obj\Debug\APP_UI.Properties.Resources.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\obj\Debug\APP_UI.csproj.GenerateResource.Cache
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\obj\Debug\APP_UI.exe
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\obj\Debug\APP_UI.pdb
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\obj\Debug\APP_UI.View.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\C1.Win.C1Command.2.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\C1.Win.C1Command.2.xml
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\obj\Debug\APP_UI.exe.licenses
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Esri.ArcGISRuntime.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Esri.ArcGISRuntime.xml
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\ar\Esri.ArcGISRuntime.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\cs\Esri.ArcGISRuntime.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\da\Esri.ArcGISRuntime.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\de\Esri.ArcGISRuntime.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\es\Esri.ArcGISRuntime.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\et\Esri.ArcGISRuntime.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\fi\Esri.ArcGISRuntime.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\fr\Esri.ArcGISRuntime.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\he\Esri.ArcGISRuntime.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\it\Esri.ArcGISRuntime.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\ja\Esri.ArcGISRuntime.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\ko\Esri.ArcGISRuntime.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\lt\Esri.ArcGISRuntime.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\lv\Esri.ArcGISRuntime.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\nb-NO\Esri.ArcGISRuntime.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\nl\Esri.ArcGISRuntime.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\no\Esri.ArcGISRuntime.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\pl\Esri.ArcGISRuntime.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\pt-BR\Esri.ArcGISRuntime.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\pt-PT\Esri.ArcGISRuntime.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\ro\Esri.ArcGISRuntime.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\ru\Esri.ArcGISRuntime.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\sv\Esri.ArcGISRuntime.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\zh-CN\Esri.ArcGISRuntime.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\zh-Hans\Esri.ArcGISRuntime.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\obj\Debug\UCMapView.g.cs
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\obj\Debug\APP_UI_MarkupCompile.cache
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\obj\Debug\APP_UI_MarkupCompile.lref
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\obj\Debug\UCMapView.baml
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\obj\Debug\APP_UI.g.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\C1.Win.C1InputPanel.4.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\C1.Win.C1InputPanel.4.xml
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\C1.Win.C1Input.2.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Grid.Base.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Grid.Windows.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.Windows.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.WPF.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.SpellChecker.Base.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.Base.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.Windows.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.WPF.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\EnvDTE.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\C1.Win.C1Input.2.xml
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.WPF.xml
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.SpellChecker.Base.xml
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.Windows.xml
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.WPF.xml
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\C1.Data.Designer.2.exe
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\CircularProgressBar.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\WinFormAnimation.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\C1.Win.C1Ribbon.4.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\C1.Win.C1Ribbon.4.xml
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Alarm_ESRI_Control.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\SYSTEL_ESRI_Control.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Alarm_ESRI_Control.pdb
+D:\SDS Remote Controll (full)\APP_UI\APP_UI\bin\Debug\APP_UI.exe.config
+D:\SDS Remote Controll (full)\APP_UI\APP_UI\obj\Debug\APP_UI.exe
+D:\SDS Remote Controll (full)\APP_UI\APP_UI\obj\Debug\APP_UI.pdb
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\obj\Debug\APP_UI_Content.g.cs
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\APP_UI.exe.config
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\obj\Debug\APP_UI.exe
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\obj\Debug\APP_UI.pdb
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\APP_UI.exe
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\APP_UI.pdb
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\C1.Data.Designer.2.exe
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\C1.Win.C1Command.2.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\C1.Win.C1Input.2.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\C1.Win.C1InputPanel.4.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\C1.Win.C1Ribbon.4.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\CircularProgressBar.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\Esri.ArcGISRuntime.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\Syncfusion.Grid.Base.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\Syncfusion.Grid.Windows.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.Windows.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.WPF.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\Syncfusion.SpellChecker.Base.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.Base.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.Windows.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.WPF.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\WinFormAnimation.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\EnvDTE.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\Alarm_ESRI_Control.pdb
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\C1.Win.C1Command.2.xml
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\C1.Win.C1Input.2.xml
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\C1.Win.C1InputPanel.4.xml
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\C1.Win.C1Ribbon.4.xml
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\Esri.ArcGISRuntime.xml
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.WPF.xml
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\Syncfusion.SpellChecker.Base.xml
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.Windows.xml
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.WPF.xml
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\ar\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\cs\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\da\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\de\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\es\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\et\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\fi\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\fr\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\he\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\it\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\ja\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\ko\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\lt\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\lv\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\nb-NO\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\nl\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\no\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\pl\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\pt-BR\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\pt-PT\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\ro\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\ru\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\sv\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\zh-CN\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\bin\Debug\zh-Hans\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\obj\Debug\APP_UI.csprojResolveAssemblyReference.cache
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\obj\Debug\UCMapView.g.cs
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\obj\Debug\APP_UI_Content.g.cs
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\obj\Debug\APP_UI_MarkupCompile.cache
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\obj\Debug\APP_UI_MarkupCompile.lref
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\obj\Debug\UCMapView.baml
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\obj\Debug\APP_UI.g.resources
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\obj\Debug\APP_UI.LoginForm.resources
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\obj\Debug\APP_UI.Properties.Resources.resources
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\obj\Debug\APP_UI.View.resources
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\obj\Debug\APP_UI.csproj.GenerateResource.Cache
+C:\Users\WADG#2\Desktop\source files\Visual Studio 2015\APP_UI\APP_UI\obj\Debug\APP_UI.exe.licenses
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\APP_UI.exe.config
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\obj\Debug\APP_UI.exe
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\obj\Debug\APP_UI.pdb
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\APP_UI.exe
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\APP_UI.pdb
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\C1.Data.Designer.2.exe
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\C1.Win.C1Command.2.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\C1.Win.C1Input.2.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\C1.Win.C1InputPanel.4.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\C1.Win.C1Ribbon.4.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\CircularProgressBar.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Esri.ArcGISRuntime.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Grid.Base.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Grid.Windows.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.Windows.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.WPF.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.SpellChecker.Base.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.Base.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.Windows.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.WPF.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\WinFormAnimation.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\EnvDTE.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Alarm_ESRI_Control.pdb
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\C1.Win.C1Command.2.xml
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\C1.Win.C1Input.2.xml
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\C1.Win.C1InputPanel.4.xml
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\C1.Win.C1Ribbon.4.xml
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Esri.ArcGISRuntime.xml
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.WPF.xml
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.SpellChecker.Base.xml
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.Windows.xml
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.WPF.xml
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\ar\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\cs\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\da\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\de\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\es\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\et\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\fi\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\fr\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\he\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\it\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\ja\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\ko\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\lt\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\lv\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\nb-NO\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\nl\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\no\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\pl\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\pt-BR\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\pt-PT\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\ro\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\ru\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\sv\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\zh-CN\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\bin\Debug\zh-Hans\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\obj\Debug\APP_UI.csprojResolveAssemblyReference.cache
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\obj\Debug\UCMapView.g.cs
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\obj\Debug\APP_UI_Content.g.cs
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\obj\Debug\APP_UI_MarkupCompile.cache
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\obj\Debug\APP_UI_MarkupCompile.lref
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\obj\Debug\UCMapView.baml
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\obj\Debug\APP_UI.g.resources
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\obj\Debug\APP_UI.LoginForm.resources
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\obj\Debug\APP_UI.Properties.Resources.resources
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\obj\Debug\APP_UI.View.resources
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\obj\Debug\APP_UI.csproj.GenerateResource.Cache
+C:\Users\WADG#2\Documents\Visual Studio 2015\Projects\APP_UI\APP_UI\obj\Debug\APP_UI.exe.licenses
+D:\APP_UI\APP_UI\bin\Debug\APP_UI.exe.config
+D:\APP_UI\APP_UI\obj\Debug\APP_UI.exe
+D:\APP_UI\APP_UI\obj\Debug\APP_UI.pdb
+D:\APP_UI\APP_UI\bin\Debug\APP_UI.exe
+D:\APP_UI\APP_UI\bin\Debug\APP_UI.pdb
+D:\APP_UI\APP_UI\bin\Debug\C1.Data.Designer.2.exe
+D:\APP_UI\APP_UI\bin\Debug\C1.Win.C1Command.2.dll
+D:\APP_UI\APP_UI\bin\Debug\C1.Win.C1Input.2.dll
+D:\APP_UI\APP_UI\bin\Debug\C1.Win.C1InputPanel.4.dll
+D:\APP_UI\APP_UI\bin\Debug\C1.Win.C1Ribbon.4.dll
+D:\APP_UI\APP_UI\bin\Debug\CircularProgressBar.dll
+D:\APP_UI\APP_UI\bin\Debug\Esri.ArcGISRuntime.dll
+D:\APP_UI\APP_UI\bin\Debug\Syncfusion.Grid.Base.dll
+D:\APP_UI\APP_UI\bin\Debug\Syncfusion.Grid.Windows.dll
+D:\APP_UI\APP_UI\bin\Debug\Syncfusion.Licensing.dll
+D:\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.Base.dll
+D:\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.Windows.dll
+D:\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.WPF.dll
+D:\APP_UI\APP_UI\bin\Debug\Syncfusion.SpellChecker.Base.dll
+D:\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.Base.dll
+D:\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.Windows.dll
+D:\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.WPF.dll
+D:\APP_UI\APP_UI\bin\Debug\WinFormAnimation.dll
+D:\APP_UI\APP_UI\bin\Debug\EnvDTE.dll
+D:\APP_UI\APP_UI\bin\Debug\Alarm_ESRI_Control.pdb
+D:\APP_UI\APP_UI\bin\Debug\C1.Win.C1Command.2.xml
+D:\APP_UI\APP_UI\bin\Debug\C1.Win.C1Input.2.xml
+D:\APP_UI\APP_UI\bin\Debug\C1.Win.C1InputPanel.4.xml
+D:\APP_UI\APP_UI\bin\Debug\C1.Win.C1Ribbon.4.xml
+D:\APP_UI\APP_UI\bin\Debug\Esri.ArcGISRuntime.xml
+D:\APP_UI\APP_UI\bin\Debug\Syncfusion.Grid.Base.xml
+D:\APP_UI\APP_UI\bin\Debug\Syncfusion.Grid.Windows.xml
+D:\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.Base.xml
+D:\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.Windows.xml
+D:\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.WPF.xml
+D:\APP_UI\APP_UI\bin\Debug\Syncfusion.SpellChecker.Base.xml
+D:\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.Base.xml
+D:\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.Windows.xml
+D:\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.WPF.xml
+D:\APP_UI\APP_UI\bin\Debug\ar\Esri.ArcGISRuntime.resources.dll
+D:\APP_UI\APP_UI\bin\Debug\cs\Esri.ArcGISRuntime.resources.dll
+D:\APP_UI\APP_UI\bin\Debug\da\Esri.ArcGISRuntime.resources.dll
+D:\APP_UI\APP_UI\bin\Debug\de\Esri.ArcGISRuntime.resources.dll
+D:\APP_UI\APP_UI\bin\Debug\es\Esri.ArcGISRuntime.resources.dll
+D:\APP_UI\APP_UI\bin\Debug\et\Esri.ArcGISRuntime.resources.dll
+D:\APP_UI\APP_UI\bin\Debug\fi\Esri.ArcGISRuntime.resources.dll
+D:\APP_UI\APP_UI\bin\Debug\fr\Esri.ArcGISRuntime.resources.dll
+D:\APP_UI\APP_UI\bin\Debug\he\Esri.ArcGISRuntime.resources.dll
+D:\APP_UI\APP_UI\bin\Debug\it\Esri.ArcGISRuntime.resources.dll
+D:\APP_UI\APP_UI\bin\Debug\ja\Esri.ArcGISRuntime.resources.dll
+D:\APP_UI\APP_UI\bin\Debug\ko\Esri.ArcGISRuntime.resources.dll
+D:\APP_UI\APP_UI\bin\Debug\lt\Esri.ArcGISRuntime.resources.dll
+D:\APP_UI\APP_UI\bin\Debug\lv\Esri.ArcGISRuntime.resources.dll
+D:\APP_UI\APP_UI\bin\Debug\nb-NO\Esri.ArcGISRuntime.resources.dll
+D:\APP_UI\APP_UI\bin\Debug\nl\Esri.ArcGISRuntime.resources.dll
+D:\APP_UI\APP_UI\bin\Debug\no\Esri.ArcGISRuntime.resources.dll
+D:\APP_UI\APP_UI\bin\Debug\pl\Esri.ArcGISRuntime.resources.dll
+D:\APP_UI\APP_UI\bin\Debug\pt-BR\Esri.ArcGISRuntime.resources.dll
+D:\APP_UI\APP_UI\bin\Debug\pt-PT\Esri.ArcGISRuntime.resources.dll
+D:\APP_UI\APP_UI\bin\Debug\ro\Esri.ArcGISRuntime.resources.dll
+D:\APP_UI\APP_UI\bin\Debug\ru\Esri.ArcGISRuntime.resources.dll
+D:\APP_UI\APP_UI\bin\Debug\sv\Esri.ArcGISRuntime.resources.dll
+D:\APP_UI\APP_UI\bin\Debug\zh-CN\Esri.ArcGISRuntime.resources.dll
+D:\APP_UI\APP_UI\bin\Debug\zh-Hans\Esri.ArcGISRuntime.resources.dll
+D:\APP_UI\APP_UI\obj\Debug\APP_UI.csprojResolveAssemblyReference.cache
+D:\APP_UI\APP_UI\obj\Debug\UCMapView.g.cs
+D:\APP_UI\APP_UI\obj\Debug\APP_UI_Content.g.cs
+D:\APP_UI\APP_UI\obj\Debug\APP_UI_MarkupCompile.cache
+D:\APP_UI\APP_UI\obj\Debug\APP_UI_MarkupCompile.lref
+D:\APP_UI\APP_UI\obj\Debug\UCMapView.baml
+D:\APP_UI\APP_UI\obj\Debug\APP_UI.g.resources
+D:\APP_UI\APP_UI\obj\Debug\APP_UI.LoginForm.resources
+D:\APP_UI\APP_UI\obj\Debug\APP_UI.Properties.Resources.resources
+D:\APP_UI\APP_UI\obj\Debug\APP_UI.View.resources
+D:\APP_UI\APP_UI\obj\Debug\APP_UI.csproj.GenerateResource.Cache
+D:\APP_UI\APP_UI\obj\Debug\APP_UI.exe.licenses
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\APP_UI.exe.config
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\obj\Debug\APP_UI.exe
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\obj\Debug\APP_UI.pdb
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\APP_UI.exe
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\APP_UI.pdb
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\C1.Data.Designer.2.exe
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\C1.Win.C1Command.2.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\C1.Win.C1Input.2.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\C1.Win.C1Input.4.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\C1.Win.C1InputPanel.4.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\C1.Win.C1Ribbon.4.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\CircularProgressBar.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\Esri.ArcGISRuntime.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\Syncfusion.Grid.Base.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\Syncfusion.Grid.Windows.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\Syncfusion.Licensing.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.Base.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.Windows.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.WPF.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\Syncfusion.SpellChecker.Base.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.Base.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.Windows.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.WPF.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\WinFormAnimation.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\EnvDTE.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\C1.Win.C1Command.2.xml
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\C1.Win.C1Input.2.xml
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\C1.Win.C1Input.4.xml
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\C1.Win.C1InputPanel.4.xml
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\C1.Win.C1Ribbon.4.xml
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\Esri.ArcGISRuntime.xml
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\Syncfusion.Grid.Base.xml
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\Syncfusion.Grid.Windows.xml
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.Base.xml
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.Windows.xml
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.WPF.xml
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\Syncfusion.SpellChecker.Base.xml
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.Base.xml
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.Windows.xml
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.WPF.xml
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\ar\Esri.ArcGISRuntime.resources.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\cs\Esri.ArcGISRuntime.resources.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\da\Esri.ArcGISRuntime.resources.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\de\Esri.ArcGISRuntime.resources.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\es\Esri.ArcGISRuntime.resources.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\et\Esri.ArcGISRuntime.resources.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\fi\Esri.ArcGISRuntime.resources.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\fr\Esri.ArcGISRuntime.resources.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\he\Esri.ArcGISRuntime.resources.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\it\Esri.ArcGISRuntime.resources.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\ja\Esri.ArcGISRuntime.resources.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\ko\Esri.ArcGISRuntime.resources.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\lt\Esri.ArcGISRuntime.resources.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\lv\Esri.ArcGISRuntime.resources.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\nb-NO\Esri.ArcGISRuntime.resources.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\nl\Esri.ArcGISRuntime.resources.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\no\Esri.ArcGISRuntime.resources.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\pl\Esri.ArcGISRuntime.resources.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\pt-BR\Esri.ArcGISRuntime.resources.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\pt-PT\Esri.ArcGISRuntime.resources.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\ro\Esri.ArcGISRuntime.resources.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\ru\Esri.ArcGISRuntime.resources.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\sv\Esri.ArcGISRuntime.resources.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\zh-CN\Esri.ArcGISRuntime.resources.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\zh-Hans\Esri.ArcGISRuntime.resources.dll
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\obj\Debug\UCMapView.g.cs
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\obj\Debug\APP_UI_Content.g.cs
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\obj\Debug\APP_UI_MarkupCompile.cache
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\obj\Debug\APP_UI_MarkupCompile.lref
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\obj\Debug\UCMapView.baml
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\obj\Debug\APP_UI.g.resources
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\obj\Debug\APP_UI.LoginForm.resources
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\obj\Debug\APP_UI.Properties.Resources.resources
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\obj\Debug\APP_UI.View.resources
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\obj\Debug\APP_UI.csproj.GenerateResource.Cache
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\obj\Debug\APP_UI.exe.licenses
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\obj\Debug\APP_UI.csprojResolveAssemblyReference.cache
+F:\APP_UI\APP_UI\bin\Debug\APP_UI.exe.config
+F:\APP_UI\APP_UI\obj\Debug\APP_UI.exe
+F:\APP_UI\APP_UI\obj\Debug\APP_UI.pdb
+F:\APP_UI\APP_UI\bin\Debug\APP_UI.exe
+F:\APP_UI\APP_UI\bin\Debug\APP_UI.pdb
+F:\APP_UI\APP_UI\bin\Debug\C1.Data.Designer.2.exe
+F:\APP_UI\APP_UI\bin\Debug\C1.Win.C1Command.2.dll
+F:\APP_UI\APP_UI\bin\Debug\C1.Win.C1Input.2.dll
+F:\APP_UI\APP_UI\bin\Debug\C1.Win.C1Input.4.dll
+F:\APP_UI\APP_UI\bin\Debug\C1.Win.C1InputPanel.4.dll
+F:\APP_UI\APP_UI\bin\Debug\C1.Win.C1Ribbon.4.dll
+F:\APP_UI\APP_UI\bin\Debug\CircularProgressBar.dll
+F:\APP_UI\APP_UI\bin\Debug\Esri.ArcGISRuntime.dll
+F:\APP_UI\APP_UI\bin\Debug\Syncfusion.Grid.Base.dll
+F:\APP_UI\APP_UI\bin\Debug\Syncfusion.Grid.Windows.dll
+F:\APP_UI\APP_UI\bin\Debug\Syncfusion.Licensing.dll
+F:\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.Base.dll
+F:\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.Windows.dll
+F:\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.WPF.dll
+F:\APP_UI\APP_UI\bin\Debug\Syncfusion.SpellChecker.Base.dll
+F:\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.Base.dll
+F:\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.Windows.dll
+F:\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.WPF.dll
+F:\APP_UI\APP_UI\bin\Debug\WinFormAnimation.dll
+F:\APP_UI\APP_UI\bin\Debug\EnvDTE.dll
+F:\APP_UI\APP_UI\bin\Debug\C1.Win.C1Command.2.xml
+F:\APP_UI\APP_UI\bin\Debug\C1.Win.C1Input.2.xml
+F:\APP_UI\APP_UI\bin\Debug\C1.Win.C1Input.4.xml
+F:\APP_UI\APP_UI\bin\Debug\C1.Win.C1InputPanel.4.xml
+F:\APP_UI\APP_UI\bin\Debug\C1.Win.C1Ribbon.4.xml
+F:\APP_UI\APP_UI\bin\Debug\Esri.ArcGISRuntime.xml
+F:\APP_UI\APP_UI\bin\Debug\Syncfusion.Grid.Base.xml
+F:\APP_UI\APP_UI\bin\Debug\Syncfusion.Grid.Windows.xml
+F:\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.Base.xml
+F:\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.Windows.xml
+F:\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.WPF.xml
+F:\APP_UI\APP_UI\bin\Debug\Syncfusion.SpellChecker.Base.xml
+F:\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.Base.xml
+F:\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.Windows.xml
+F:\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.WPF.xml
+F:\APP_UI\APP_UI\bin\Debug\ar\Esri.ArcGISRuntime.resources.dll
+F:\APP_UI\APP_UI\bin\Debug\cs\Esri.ArcGISRuntime.resources.dll
+F:\APP_UI\APP_UI\bin\Debug\da\Esri.ArcGISRuntime.resources.dll
+F:\APP_UI\APP_UI\bin\Debug\de\Esri.ArcGISRuntime.resources.dll
+F:\APP_UI\APP_UI\bin\Debug\es\Esri.ArcGISRuntime.resources.dll
+F:\APP_UI\APP_UI\bin\Debug\et\Esri.ArcGISRuntime.resources.dll
+F:\APP_UI\APP_UI\bin\Debug\fi\Esri.ArcGISRuntime.resources.dll
+F:\APP_UI\APP_UI\bin\Debug\fr\Esri.ArcGISRuntime.resources.dll
+F:\APP_UI\APP_UI\bin\Debug\he\Esri.ArcGISRuntime.resources.dll
+F:\APP_UI\APP_UI\bin\Debug\it\Esri.ArcGISRuntime.resources.dll
+F:\APP_UI\APP_UI\bin\Debug\ja\Esri.ArcGISRuntime.resources.dll
+F:\APP_UI\APP_UI\bin\Debug\ko\Esri.ArcGISRuntime.resources.dll
+F:\APP_UI\APP_UI\bin\Debug\lt\Esri.ArcGISRuntime.resources.dll
+F:\APP_UI\APP_UI\bin\Debug\lv\Esri.ArcGISRuntime.resources.dll
+F:\APP_UI\APP_UI\bin\Debug\nb-NO\Esri.ArcGISRuntime.resources.dll
+F:\APP_UI\APP_UI\bin\Debug\nl\Esri.ArcGISRuntime.resources.dll
+F:\APP_UI\APP_UI\bin\Debug\no\Esri.ArcGISRuntime.resources.dll
+F:\APP_UI\APP_UI\bin\Debug\pl\Esri.ArcGISRuntime.resources.dll
+F:\APP_UI\APP_UI\bin\Debug\pt-BR\Esri.ArcGISRuntime.resources.dll
+F:\APP_UI\APP_UI\bin\Debug\pt-PT\Esri.ArcGISRuntime.resources.dll
+F:\APP_UI\APP_UI\bin\Debug\ro\Esri.ArcGISRuntime.resources.dll
+F:\APP_UI\APP_UI\bin\Debug\ru\Esri.ArcGISRuntime.resources.dll
+F:\APP_UI\APP_UI\bin\Debug\sv\Esri.ArcGISRuntime.resources.dll
+F:\APP_UI\APP_UI\bin\Debug\zh-CN\Esri.ArcGISRuntime.resources.dll
+F:\APP_UI\APP_UI\bin\Debug\zh-Hans\Esri.ArcGISRuntime.resources.dll
+F:\APP_UI\APP_UI\obj\Debug\APP_UI.csprojResolveAssemblyReference.cache
+F:\APP_UI\APP_UI\obj\Debug\UCMapView.g.cs
+F:\APP_UI\APP_UI\obj\Debug\APP_UI_Content.g.cs
+F:\APP_UI\APP_UI\obj\Debug\APP_UI_MarkupCompile.cache
+F:\APP_UI\APP_UI\obj\Debug\APP_UI_MarkupCompile.lref
+F:\APP_UI\APP_UI\obj\Debug\UCMapView.baml
+F:\APP_UI\APP_UI\obj\Debug\APP_UI.g.resources
+F:\APP_UI\APP_UI\obj\Debug\APP_UI.LoginForm.resources
+F:\APP_UI\APP_UI\obj\Debug\APP_UI.Properties.Resources.resources
+F:\APP_UI\APP_UI\obj\Debug\APP_UI.View.resources
+F:\APP_UI\APP_UI\obj\Debug\APP_UI.csproj.GenerateResource.Cache
+F:\APP_UI\APP_UI\obj\Debug\APP_UI.exe.licenses
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\APP_UI.exe.config
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\obj\Debug\APP_UI.exe
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\obj\Debug\APP_UI.pdb
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\APP_UI.exe
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\APP_UI.pdb
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\C1.Data.Designer.2.exe
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\C1.Win.C1Command.2.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\C1.Win.C1Input.2.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\C1.Win.C1Input.4.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\C1.Win.C1InputPanel.4.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\C1.Win.C1Ribbon.4.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\CircularProgressBar.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\Esri.ArcGISRuntime.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\Syncfusion.Grid.Base.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\Syncfusion.Grid.Windows.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.Windows.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.WPF.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\Syncfusion.SpellChecker.Base.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.Base.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.Windows.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.WPF.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\WinFormAnimation.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\EnvDTE.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\C1.Win.C1Command.2.xml
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\C1.Win.C1Input.2.xml
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\C1.Win.C1Input.4.xml
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\C1.Win.C1InputPanel.4.xml
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\C1.Win.C1Ribbon.4.xml
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\Esri.ArcGISRuntime.xml
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\Syncfusion.Shared.WPF.xml
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\Syncfusion.SpellChecker.Base.xml
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.Windows.xml
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\Syncfusion.Tools.WPF.xml
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\ar\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\cs\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\da\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\de\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\es\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\et\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\fi\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\fr\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\he\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\it\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\ja\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\ko\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\lt\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\lv\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\nb-NO\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\nl\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\no\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\pl\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\pt-BR\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\pt-PT\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\ro\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\ru\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\sv\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\zh-CN\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\bin\Debug\zh-Hans\Esri.ArcGISRuntime.resources.dll
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\obj\Debug\APP_UI.csprojResolveAssemblyReference.cache
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\obj\Debug\UCMapView.g.cs
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\obj\Debug\APP_UI_Content.g.cs
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\obj\Debug\APP_UI_MarkupCompile.cache
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\obj\Debug\APP_UI_MarkupCompile.lref
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\obj\Debug\UCMapView.baml
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\obj\Debug\APP_UI.g.resources
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\obj\Debug\APP_UI.LoginForm.resources
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\obj\Debug\APP_UI.Properties.Resources.resources
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\obj\Debug\APP_UI.View.resources
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\obj\Debug\APP_UI.csproj.GenerateResource.Cache
+C:\Users\WADG#2\Documents\GitHub\map-coverage-client\APP_UI\APP_UI\obj\Debug\APP_UI.exe.licenses
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\bin\Debug\TETRA_Coverage_Monitor.exe.config
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\obj\Debug\TETRA_Coverage_Monitor_Content.g.cs
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\obj\Debug\TETRA_Coverage_Monitor_MarkupCompile.cache
+D:\Softwares\Under Test Remote SDS Application\Client\APP_UI\APP_UI\obj\Debug\TETRA_Coverage_Monitor_MarkupCompile.lref

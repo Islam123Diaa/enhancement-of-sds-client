@@ -1,0 +1,4 @@
+
+ Class = View , Method = draw_coverage_for_all_sites_as_points , Error = Cross-thread operation not valid: Control 'comboBox_Radio_type_Map_pnl' accessed from a thread other than the thread it was created on.
+
+ Class = View , Method = draw_coverage_for_all_sites_as_points , Error = Cross-thread operation not valid: Control 'comboBox_Radio_type_Map_pnl' accessed from a thread other than the thread it was created on.

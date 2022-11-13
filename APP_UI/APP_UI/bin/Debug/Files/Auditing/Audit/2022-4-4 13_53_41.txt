@@ -1,0 +1,30 @@
+
+ Class = View , Method = load_zones , Error = Index was outside the bounds of the array.
+
+ Class = View , Method = load_Sites , Error = Index was outside the bounds of the array.
+
+ Class = View , Method = load_radios , Error = Index was outside the bounds of the array.
+
+ Class = View , Method = Show_Radios_Fields , Error = Object reference not set to an instance of an object.
+
+ Class = View , Method = Load_talkgroups , Error = Unable to cast object of type 'System.String' to type 'System.Windows.Controls.ComboBoxItem'.
+
+ Class = View , Method = show_current_talkgroup , Error = Unable to cast object of type 'System.String' to type 'System.Windows.Controls.ComboBoxItem'.
+
+ Class = View , Method = Load_talkgroups , Error = Unable to cast object of type 'System.String' to type 'System.Windows.Controls.ComboBoxItem'.
+
+ Class = View , Method = show_current_talkgroup , Error = Unable to cast object of type 'System.String' to type 'System.Windows.Controls.ComboBoxItem'.
+
+ Class = View , Method = Load_talkgroups , Error = Unable to cast object of type 'System.String' to type 'System.Windows.Controls.ComboBoxItem'.
+
+ Class = View , Method = show_current_talkgroup , Error = Unable to cast object of type 'System.String' to type 'System.Windows.Controls.ComboBoxItem'.
+
+ Class = View , Method = Load_talkgroups , Error = Unable to cast object of type 'System.String' to type 'System.Windows.Controls.ComboBoxItem'.
+
+ Class = View , Method = show_current_talkgroup , Error = Unable to cast object of type 'System.String' to type 'System.Windows.Controls.ComboBoxItem'.
+
+ Class = View , Method = Load_talkgroups , Error = Unable to cast object of type 'System.String' to type 'System.Windows.Controls.ComboBoxItem'.
+
+ Class = View , Method = show_current_talkgroup , Error = Unable to cast object of type 'System.String' to type 'System.Windows.Controls.ComboBoxItem'.
+
+ Class = View , Method = Load_talkgroups , Error = Unable to cast object of type 'System.String' to type 'System.Windows.Controls.ComboBoxItem'.

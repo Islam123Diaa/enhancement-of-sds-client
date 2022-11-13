@@ -1,0 +1,32 @@
+
+ Class = View , Method = draw_coverage_for_all_sites_as_points , Error = Object reference not set to an instance of an object.
+
+ Class = View , Method = draw_coverage_for_all_sites_as_points , Error = Object reference not set to an instance of an object.
+
+ Class = View , Method = draw_coverage_for_all_sites_as_points , Error = Object reference not set to an instance of an object.
+
+ Class = View , Method = draw_coverage_for_all_sites_as_points , Error = Object reference not set to an instance of an object.
+
+ Class = View , Method = draw_coverage_for_all_sites_as_points , Error = Object reference not set to an instance of an object.
+
+ Class = View , Method = draw_coverage_for_all_sites_as_points , Error = Object reference not set to an instance of an object.
+
+ Class = View , Method = draw_coverage_for_all_sites_as_points , Error = Object reference not set to an instance of an object.
+
+ Class = View , Method = draw_coverage_for_all_sites_as_points , Error = Object reference not set to an instance of an object.
+
+ Class = View , Method = draw_coverage_for_all_sites_as_points , Error = The operation has timed out
+
+ Class = View , Method = draw_coverage_for_all_sites_as_points , Error = The operation has timed out
+
+ Class = View , Method = draw_coverage_for_all_sites_as_points , Error = The operation has timed out
+
+ Class = View , Method = draw_coverage_for_all_sites_as_points , Error = The operation has timed out
+
+ Class = View , Method = draw_coverage_for_all_sites_as_points , Error = Collection was modified; enumeration operation may not execute.
+
+ Class = View , Method = draw_coverage_for_all_sites_as_points , Error = The operation has timed out
+
+ Class = View , Method = draw_coverage_for_all_sites_as_points , Error = The operation has timed out
+
+ Class = View , Method = draw_coverage_for_all_sites_as_points , Error = The operation has timed out

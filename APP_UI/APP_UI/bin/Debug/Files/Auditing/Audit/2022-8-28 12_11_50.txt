@@ -1,0 +1,8 @@
+
+ Class = View , Method = coverage_draw_one_Site_as_points , Error = Object of type 'TETRA_Coverage_Monitor.localhost1.Logs[]' cannot be converted to type 'System.Collections.Generic.List`1[TETRA_Coverage_Monitor.localhost1.Logs]'.
+
+ Class = View , Method = coverage_draw_one_Site_as_points , Error = Object of type 'TETRA_Coverage_Monitor.localhost1.Logs[]' cannot be converted to type 'System.Collections.Generic.List`1[TETRA_Coverage_Monitor.localhost1.Logs]'.
+
+ Class = View , Method = coverage_draw_one_Site_as_points , Error = Object of type 'TETRA_Coverage_Monitor.localhost1.Logs[]' cannot be converted to type 'System.Collections.Generic.List`1[TETRA_Coverage_Monitor.localhost1.Logs]'.
+
+ Class = View , Method = coverage_draw_one_Site_as_points , Error = Object of type 'TETRA_Coverage_Monitor.localhost1.Logs[]' cannot be converted to type 'System.Collections.Generic.List`1[TETRA_Coverage_Monitor.localhost1.Logs]'.

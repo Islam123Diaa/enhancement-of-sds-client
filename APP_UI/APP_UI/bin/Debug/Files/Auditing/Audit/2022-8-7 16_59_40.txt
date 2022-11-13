@@ -1,0 +1,2 @@
+
+ Class = View , Method = initialize_drawing_zones , Error = Unable to cast object of type 'System.Windows.Forms.TableLayoutPanel' to type 'System.Windows.Forms.PictureBox'.

@@ -1,0 +1,2 @@
+
+ Class = View , Method = initialize_drawing_zones , Error = Object reference not set to an instance of an object.

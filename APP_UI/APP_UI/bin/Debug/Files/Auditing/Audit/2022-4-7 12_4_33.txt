@@ -1,0 +1,16 @@
+
+ Class = View , Method = load_zones , Error = Index was outside the bounds of the array.
+
+ Class = View , Method = load_Sites , Error = Index was outside the bounds of the array.
+
+ Class = View , Method = load_radios , Error = Index was outside the bounds of the array.
+
+ Class = View , Method = Load_talkgroups , Error = Unable to cast object of type 'C1.Win.C1Ribbon.RibbonButton' to type 'System.Windows.Controls.ComboBoxItem'.
+
+ Class = View , Method = Load_talkgroups , Error = Unable to cast object of type 'C1.Win.C1Ribbon.RibbonButton' to type 'System.Windows.Controls.ComboBoxItem'.
+
+ Class = View , Method = Load_talkgroups , Error = Unable to cast object of type 'C1.Win.C1Ribbon.RibbonButton' to type 'System.Windows.Controls.ComboBoxItem'.
+
+ Class = View , Method = Load_talkgroups , Error = Unable to cast object of type 'C1.Win.C1Ribbon.RibbonButton' to type 'System.Windows.Controls.ComboBoxItem'.
+
+ Class = View , Method = Load_talkgroups , Error = Unable to cast object of type 'C1.Win.C1Ribbon.RibbonButton' to type 'System.Windows.Controls.ComboBoxItem'.
