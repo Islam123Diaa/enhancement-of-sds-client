@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TETRA_Coverage_Monitor.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TETRA_Coverage_Monitor_localhost_SDS_Remote_Control_WS" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:1568/SDS_Remote_Control_WS.asmx</Value>
+    </Setting>
+    <Setting Name="TETRA_Coverage_Monitor_localhost1_SDS_Remote_Control_WS" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://192.168.1.170/SDS_Remote_Control_WS/SDS_Remote_Control_WS.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

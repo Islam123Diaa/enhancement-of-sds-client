@@ -1,0 +1,4 @@
+
+ Class = Web_service_Control , Method = Select_all_zones , Error = There is an error in XML document (1, 3139348).
+
+ Class = View , Method = load_comboBox_Zone_ID_Sites_Tab , Error = Object reference not set to an instance of an object.

@@ -1,0 +1,8 @@
+
+ Class = View , Method = button1_Click , Error = Value cannot be null.
+Parameter name: source
+
+ Class = Web_service_Control , Method = Select_all_zones , Error = There is an error in XML document (1, 2989470).
+
+ Class = View , Method = button1_Click , Error = Value cannot be null.
+Parameter name: source

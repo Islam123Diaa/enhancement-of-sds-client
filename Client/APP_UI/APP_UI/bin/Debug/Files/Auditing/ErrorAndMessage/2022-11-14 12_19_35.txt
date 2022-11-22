@@ -1,0 +1,2 @@
+
+ Class = View , Method = draw_coverage_for_all_sites_as_points , Error = The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.

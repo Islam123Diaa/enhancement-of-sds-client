@@ -1,0 +1,724 @@
+
+ Class = View , Method = draw_coverage_for_all_sites_as_polygon2 , Error = The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+
+ Class = View , Method = draw_coverage_for_all_sites_as_polygon2 , Error = The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '110' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '120' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '120' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '140' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '140' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '140' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '170' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '170' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '180' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '200' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '200' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '210' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '230' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '230' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '230' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '260' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '270' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '270' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '290' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '300' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '300' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '320' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '330' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '330' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '350' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '360' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '360' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '380' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '390' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '390' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '410' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '420' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '430' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '440' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '450' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '460' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '470' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '480' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '490' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '500' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '510' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '520' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '530' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '530' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '550' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '560' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '560' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '580' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '590' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '590' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '610' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '620' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '620' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '640' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '650' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '650' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '670' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '680' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '690' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '700' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '710' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '710' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '730' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '740' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '740' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '760' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '770' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '770' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '790' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '800' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '800' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '820' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '830' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '830' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '850' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '860' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '870' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '880' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '890' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '900' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '910' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '920' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '930' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '940' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '950' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '950' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '970' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '980' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '980' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1000' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1010' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1010' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1030' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1040' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1040' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1060' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1070' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1070' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1090' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1100' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1110' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1120' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1130' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1140' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1150' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1160' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1170' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1180' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1190' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1190' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1210' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1220' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1220' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1240' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1250' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1250' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1270' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1280' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1280' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1300' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1310' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1310' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1330' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1340' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1350' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1360' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1370' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1370' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1390' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1400' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1400' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1420' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1430' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1430' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1450' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1460' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1470' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1480' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1490' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1500' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1510' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1520' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1530' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1540' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1550' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1560' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1570' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1580' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1580' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1600' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1610' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1610' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1630' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1640' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1650' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1660' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1670' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1670' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1690' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1700' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1700' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1720' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1730' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1740' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1750' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1760' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1770' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1780' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1790' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1790' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1810' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1820' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1820' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1840' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1850' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1850' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1870' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1880' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1880' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1900' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1910' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1920' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1930' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1940' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1940' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1960' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1970' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1970' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '1990' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2000' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2000' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2020' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2030' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2040' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2050' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2060' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2070' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2080' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2090' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2090' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2110' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2120' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2120' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2140' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2150' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2150' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2170' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2180' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2180' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2200' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2210' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2210' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2230' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2240' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2250' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2260' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2270' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2270' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2290' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2300' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2300' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2320' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2330' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2340' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2350' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2360' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2360' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2380' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2390' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2400' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2410' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2420' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2420' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2440' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2450' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2450' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2470' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2480' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2480' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+
+ Class = View , Method = change_drawing_progress_bar_date_pnl_percentage , Error = Value of '2500' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value

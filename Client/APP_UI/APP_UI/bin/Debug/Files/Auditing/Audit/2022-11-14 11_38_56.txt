@@ -1,0 +1,4 @@
+
+ Class = Web_service_Control , Method = Select_all_sites , Error = There is an error in XML document (1, 5986122).
+
+ Class = View , Method = draw_coverage_for_all_sites_as_polygon , Error = Object reference not set to an instance of an object.
