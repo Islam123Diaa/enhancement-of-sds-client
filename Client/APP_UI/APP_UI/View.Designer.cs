@@ -28,11 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.TreeNode treeNode6 = new System.Windows.Forms.TreeNode("Zones");
-            System.Windows.Forms.TreeNode treeNode7 = new System.Windows.Forms.TreeNode("Sites");
-            System.Windows.Forms.TreeNode treeNode8 = new System.Windows.Forms.TreeNode("Radios");
+            System.Windows.Forms.TreeNode treeNode9 = new System.Windows.Forms.TreeNode("Zones");
+            System.Windows.Forms.TreeNode treeNode10 = new System.Windows.Forms.TreeNode("Sites");
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(View));
-            System.Windows.Forms.TreeNode treeNode5 = new System.Windows.Forms.TreeNode("Cities");
+            System.Windows.Forms.TreeNode treeNode11 = new System.Windows.Forms.TreeNode("Radios");
+            System.Windows.Forms.TreeNode treeNode12 = new System.Windows.Forms.TreeNode("Cities");
             this.Dock_commanddock = new C1.Win.C1Command.C1CommandDock();
             this.Tab_View = new C1.Win.C1Command.C1DockingTab();
             this.Tabview_TETRA_Zones_Tab = new C1.Win.C1Command.C1DockingTabPage();
@@ -54,7 +54,7 @@
             this.Tabview_TETRASites_Tab = new C1.Win.C1Command.C1DockingTabPage();
             this.trv_TETRASites_Sites_Tab = new System.Windows.Forms.TreeView();
             this.pnl_details_Sites_Tab = new System.Windows.Forms.Panel();
-            this.dropdownlist_search_sites_sites_tab = new System.Windows.Forms.ComboBox();
+            this.drop_down_list_search_sites_sites_tab = new System.Windows.Forms.ComboBox();
             this.txt_Cellid_Sites_Tab = new System.Windows.Forms.TextBox();
             this.lbl_cellid_Sites_Tab = new System.Windows.Forms.Label();
             this.circularProgressBar_site_panel = new CircularProgressBar.CircularProgressBar();
@@ -408,11 +408,11 @@
             this.trv_TETRAZones_Zones_Tab.HideSelection = false;
             this.trv_TETRAZones_Zones_Tab.Location = new System.Drawing.Point(0, 190);
             this.trv_TETRAZones_Zones_Tab.Name = "trv_TETRAZones_Zones_Tab";
-            treeNode6.Name = "Node0";
-            treeNode6.Tag = "head";
-            treeNode6.Text = "Zones";
+            treeNode9.Name = "Node0";
+            treeNode9.Tag = "head";
+            treeNode9.Text = "Zones";
             this.trv_TETRAZones_Zones_Tab.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
-            treeNode6});
+            treeNode9});
             this.trv_TETRAZones_Zones_Tab.Size = new System.Drawing.Size(494, 530);
             this.trv_TETRAZones_Zones_Tab.TabIndex = 7;
             this.trv_TETRAZones_Zones_Tab.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.trv_TETRAZones_Zones_Tab_AfterSelect);
@@ -630,11 +630,11 @@
             this.trv_TETRASites_Sites_Tab.HideSelection = false;
             this.trv_TETRASites_Sites_Tab.Location = new System.Drawing.Point(0, 292);
             this.trv_TETRASites_Sites_Tab.Name = "trv_TETRASites_Sites_Tab";
-            treeNode7.Name = "Node6";
-            treeNode7.Tag = "head";
-            treeNode7.Text = "Sites";
+            treeNode10.Name = "Node6";
+            treeNode10.Tag = "head";
+            treeNode10.Text = "Sites";
             this.trv_TETRASites_Sites_Tab.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
-            treeNode7});
+            treeNode10});
             this.trv_TETRASites_Sites_Tab.Size = new System.Drawing.Size(494, 428);
             this.trv_TETRASites_Sites_Tab.TabIndex = 26;
             this.trv_TETRASites_Sites_Tab.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.trv_TETRASites_Sites_Tab_AfterSelect);
@@ -642,7 +642,7 @@
             // 
             // pnl_details_Sites_Tab
             // 
-            this.pnl_details_Sites_Tab.Controls.Add(this.dropdownlist_search_sites_sites_tab);
+            this.pnl_details_Sites_Tab.Controls.Add(this.drop_down_list_search_sites_sites_tab);
             this.pnl_details_Sites_Tab.Controls.Add(this.txt_Cellid_Sites_Tab);
             this.pnl_details_Sites_Tab.Controls.Add(this.lbl_cellid_Sites_Tab);
             this.pnl_details_Sites_Tab.Controls.Add(this.circularProgressBar_site_panel);
@@ -679,18 +679,18 @@
             this.pnl_details_Sites_Tab.TabIndex = 27;
             this.pnl_details_Sites_Tab.Tag = "panel";
             // 
-            // dropdownlist_search_sites_sites_tab
+            // drop_down_list_search_sites_sites_tab
             // 
-            this.dropdownlist_search_sites_sites_tab.AccessibleName = "sitenames_list";
-            this.dropdownlist_search_sites_sites_tab.FormattingEnabled = true;
-            this.dropdownlist_search_sites_sites_tab.Items.AddRange(new object[] {
+            this.drop_down_list_search_sites_sites_tab.AccessibleName = "sitenames_list";
+            this.drop_down_list_search_sites_sites_tab.FormattingEnabled = true;
+            this.drop_down_list_search_sites_sites_tab.Items.AddRange(new object[] {
             ","});
-            this.dropdownlist_search_sites_sites_tab.Location = new System.Drawing.Point(303, 38);
-            this.dropdownlist_search_sites_sites_tab.Name = "dropdownlist_search_sites_sites_tab";
-            this.dropdownlist_search_sites_sites_tab.Size = new System.Drawing.Size(175, 21);
-            this.dropdownlist_search_sites_sites_tab.TabIndex = 64;
-            this.dropdownlist_search_sites_sites_tab.Tag = "site data";
-            this.dropdownlist_search_sites_sites_tab.DropDown += new System.EventHandler(this.site_names_list_DropDown);
+            this.drop_down_list_search_sites_sites_tab.Location = new System.Drawing.Point(303, 38);
+            this.drop_down_list_search_sites_sites_tab.Name = "drop_down_list_search_sites_sites_tab";
+            this.drop_down_list_search_sites_sites_tab.Size = new System.Drawing.Size(175, 21);
+            this.drop_down_list_search_sites_sites_tab.TabIndex = 64;
+            this.drop_down_list_search_sites_sites_tab.Tag = "site data";
+            this.drop_down_list_search_sites_sites_tab.DropDown += new System.EventHandler(this.site_names_list_DropDown);
             // 
             // txt_Cellid_Sites_Tab
             // 
@@ -1213,11 +1213,11 @@
             this.trv_TETRARadios_Radios_Tab.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.trv_TETRARadios_Radios_Tab.Location = new System.Drawing.Point(0, 372);
             this.trv_TETRARadios_Radios_Tab.Name = "trv_TETRARadios_Radios_Tab";
-            treeNode8.Name = "Node0";
-            treeNode8.Tag = "head";
-            treeNode8.Text = "Radios";
+            treeNode11.Name = "Node0";
+            treeNode11.Tag = "head";
+            treeNode11.Text = "Radios";
             this.trv_TETRARadios_Radios_Tab.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
-            treeNode8});
+            treeNode11});
             this.trv_TETRARadios_Radios_Tab.Size = new System.Drawing.Size(494, 348);
             this.trv_TETRARadios_Radios_Tab.TabIndex = 30;
             this.trv_TETRARadios_Radios_Tab.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.trv_TETRARadios_Radios_Tab_AfterSelect);
@@ -1736,11 +1736,11 @@
             this.trv_TETRACities_Cities_Tab.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.trv_TETRACities_Cities_Tab.Location = new System.Drawing.Point(0, 191);
             this.trv_TETRACities_Cities_Tab.Name = "trv_TETRACities_Cities_Tab";
-            treeNode5.Name = "Node0";
-            treeNode5.Tag = "head";
-            treeNode5.Text = "Cities";
+            treeNode12.Name = "Node0";
+            treeNode12.Tag = "head";
+            treeNode12.Text = "Cities";
             this.trv_TETRACities_Cities_Tab.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
-            treeNode5});
+            treeNode12});
             this.trv_TETRACities_Cities_Tab.Size = new System.Drawing.Size(494, 529);
             this.trv_TETRACities_Cities_Tab.TabIndex = 33;
             this.trv_TETRACities_Cities_Tab.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.trv_TETRACities_Cities_Tab_AfterSelect);
@@ -2380,7 +2380,7 @@
             this.pnl_Coverage_point_info.ForeColor = System.Drawing.Color.BlanchedAlmond;
             this.pnl_Coverage_point_info.Location = new System.Drawing.Point(207, 29);
             this.pnl_Coverage_point_info.Name = "pnl_Coverage_point_info";
-            this.pnl_Coverage_point_info.Size = new System.Drawing.Size(277, 82);
+            this.pnl_Coverage_point_info.Size = new System.Drawing.Size(286, 82);
             this.pnl_Coverage_point_info.TabIndex = 52;
             this.pnl_Coverage_point_info.Visible = false;
             // 
@@ -3889,7 +3889,7 @@
         public System.Windows.Forms.Label txt_lbl_dbm_coverage_pnl;
         public System.Windows.Forms.Label lbl_dbm_coverage_pnl;
         private System.Windows.Forms.ProgressBar drawing_progress_bar_date_pnl;
-        public System.Windows.Forms.ComboBox dropdownlist_search_sites_sites_tab;
+        public System.Windows.Forms.ComboBox drop_down_list_search_sites_sites_tab;
         private C1.Win.C1Command.C1DockingTabPage Tabview_TETRACities_Tab;
         public System.Windows.Forms.Panel pnl_details_Cities_Tab;
         public CircularProgressBar.CircularProgressBar circularProgressBar_Cities_panel;

@@ -755,6 +755,7 @@ namespace TETRA_Coverage_Monitor
                         point.Longitude = longtitude_list[i];
                         point.Latitude = lattitude_list[i];
                         Drawing_data_collection[j].polygon_points.Add(point);
+                        break;
                     }
                 }
             }
@@ -767,6 +768,7 @@ namespace TETRA_Coverage_Monitor
                 if (drawing_layer.polygon_points != null && drawing_layer.polygon_points.Count > 2)
                 {
                     draw_polygons(drawing_layer.polygon_points, drawing_layer.color.R, drawing_layer.color.G, drawing_layer.color.B, 80);
+                    break;
                 }
             }
             #endregion
@@ -804,6 +806,7 @@ namespace TETRA_Coverage_Monitor
                         coverage_obj.ISSI = ISSI_list[i];
                         Coverage_points_info.Add(coverage_obj);
                         #endregion
+                        break;
                     }
                 }
             }
@@ -816,11 +819,7 @@ namespace TETRA_Coverage_Monitor
                 }
             }
             #endregion
-
-
-
         }
-
 
         #endregion
         #endregion

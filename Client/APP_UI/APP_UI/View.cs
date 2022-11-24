@@ -44,7 +44,7 @@ namespace TETRA_Coverage_Monitor
                 #region new drawing data
                 Esri_control.initialize_drawing_data_collection_array();
                 List<Color> colorlist = Esri_control.get_colors();
-                initialize_picture_boxes_colors();
+                Set_picture_boxes_colors();
                 #endregion               
             }
             catch (Exception ex)
@@ -92,6 +92,10 @@ namespace TETRA_Coverage_Monitor
             }
         }
         #endregion
+
+        /// <summary>
+        /// check the priviliage flags and turn off visibility of the control if its flag is down
+        /// </summary>
         public void check_privilage()
         {
             //24bits
@@ -219,6 +223,10 @@ namespace TETRA_Coverage_Monitor
             }
             #endregion
         }
+
+        /// <summary>
+        /// get the treeviews elements from the database and put them on display and draws all Working sites on the map 
+        /// </summary>
         public void load_all_treeviews_cycle_and_Draw_Sites()
         {
             try
@@ -367,6 +375,11 @@ namespace TETRA_Coverage_Monitor
 
         #region status label
         public delegate void Change_Status_Label_Zones_delegate(string message, Color color);
+        /// <summary>
+        /// writes the status label message and views it on display
+        /// </summary>
+        /// <param name="message"> string text message that appears</param>
+        /// <param name="color"> system.drawing.color of the message</param>
         public void update_Zones_Statues_label(string message, Color color)
         {
             try
@@ -392,13 +405,18 @@ namespace TETRA_Coverage_Monitor
 
         #region loading bar
         public delegate void Change_zone_loading_bar_percentage_delegate(int value);
-        public void change_Zone_loadingbar_percentage_async(int value)
+
+        /// <summary>
+        /// changes the loading bar percentage value
+        /// </summary>
+        /// <param name="value"> value of the loading bar</param>
+        public void change_Zone_loading_bar_percentage_async(int value)
         {
             try
             {
                 if (circularProgressBar_zone_panel.InvokeRequired)
                 {
-                    circularProgressBar_zone_panel.Invoke(new Change_zone_loading_bar_percentage_delegate(change_Zone_loadingbar_percentage_async), new object[] { value });
+                    circularProgressBar_zone_panel.Invoke(new Change_zone_loading_bar_percentage_delegate(change_Zone_loading_bar_percentage_async), new object[] { value });
                 }
                 else
                 {
@@ -414,6 +432,10 @@ namespace TETRA_Coverage_Monitor
 
         #region Treeview
         public delegate void load_trv_TETRAZones_Zones_Tab_delegate();
+
+        /// <summary>
+        /// load the Zones from the Array Zones and Display them on the treeview and load the combo box zone id with the current zones 
+        /// </summary>
         public void load_trv_TETRAZones_Zones_Tab()
         {
 
@@ -580,6 +602,11 @@ namespace TETRA_Coverage_Monitor
         #endregion
 
         #region Other Functions
+
+        /// <summary>
+        /// Shows the Information of the selected Zone on the details panel of the Zones tab
+        /// </summary>
+        /// <param name="selected_zone"> Zone selected in the treeview Zones tab</param>
         public void Show_Zone_Fields(Zone selected_zone)
         {
             try
@@ -598,6 +625,11 @@ namespace TETRA_Coverage_Monitor
                 Auditing.Error(ex.Message);
             }
         }
+
+        /// <summary>
+        /// opens thread to insert the new zone into the database  
+        /// </summary>
+        /// <param name="new_zone">information collected from the details panel</param>
         public void Add_Zone(Zone new_zone)
         {
             try
@@ -622,6 +654,10 @@ namespace TETRA_Coverage_Monitor
                 Auditing.Error(ex.Message);
             }
         }
+
+        /// <summary>
+        /// opens thread to delete selected zone from the database
+        /// </summary>
         public void Delete_Zone()
         {
             try
@@ -643,13 +679,18 @@ namespace TETRA_Coverage_Monitor
                 Auditing.Error(ex.Message);
             }
         }
-        public void Edit_Zone(Zone updated_zone)
+
+        /// <summary>
+        /// opens thread to update the selected zone with the new information on the details panel on zones tab
+        /// </summary>
+        /// <param name="Selected_zone">Zone selected in the zones tab</param>
+        public void Edit_Zone(Zone Selected_zone)
         {
             try
             {
                 loading_bar_zone_panel_thread();
 
-                bool check = WS_Control_obj.Edit_zone(Code.Singleton.user_obj.Username, Code.Singleton.user_obj.Password, updated_zone.Zone_ID, updated_zone);
+                bool check = WS_Control_obj.Edit_zone(Code.Singleton.user_obj.Username, Code.Singleton.user_obj.Password, Selected_zone.Zone_ID, Selected_zone);
 
                 if (check)
                 {
@@ -665,6 +706,10 @@ namespace TETRA_Coverage_Monitor
                 Auditing.Error(ex.Message);
             }
         }
+
+        /// <summary>
+        /// Search the Zones array by Name input on the zones tab , select that zone and display the information of the selected zone
+        /// </summary>
         public void Search_Zones()
         {
             try
@@ -706,17 +751,25 @@ namespace TETRA_Coverage_Monitor
 
             }
         }
+
+        /// <summary>
+        ///  cycle the loading bar value form 0 to 100% until the operation is done 
+        /// </summary>
         public void zones_loading_bar_progress_cycle()
         {
             while (!End_loading_bar_thread)
             {
                 Thread.Sleep(1000);
-                change_Zone_loadingbar_percentage_async(100);
+                change_Zone_loading_bar_percentage_async(100);
                 Thread.Sleep(1000);
-                change_Zone_loadingbar_percentage_async(0);
+                change_Zone_loading_bar_percentage_async(0);
             }
 
         }
+
+        /// <summary>
+        /// opens thread to cycle the loading bar
+        /// </summary>
         public void loading_bar_zone_panel_thread()
         {
             try
@@ -884,7 +937,24 @@ namespace TETRA_Coverage_Monitor
                 Auditing.Error(ex.Message);
             }
         }
+        private void site_names_list_DropDown(object sender, EventArgs e)
+        {
+            List<string> nameslist = new List<string>();
+            string substring = drop_down_list_search_sites_sites_tab.Text;
 
+            if (drop_down_list_search_sites_sites_tab.Text != "")
+            {
+                foreach (Sites site in Sites)
+                {
+                    if (site.Site_Name.StartsWith(substring))
+                    {
+                        nameslist.Add(site.Site_Name);
+                    }
+                }
+                drop_down_list_search_sites_sites_tab.DataSource = nameslist;
+            }
+
+        }
         #endregion
 
         #region treeview
@@ -926,6 +996,7 @@ namespace TETRA_Coverage_Monitor
                 Auditing.Error(ex.Message);
             }
         }
+
         #endregion
 
         #endregion
@@ -934,6 +1005,12 @@ namespace TETRA_Coverage_Monitor
 
         #region status label
         public delegate void Change_Status_Label_Sites_delegate(string message, Color color);
+
+        /// <summary>
+        /// writes the status label message and views it on display
+        /// </summary>
+        /// <param name="message"> string text message that appears</param>
+        /// <param name="color"> system.drawing.color of the message</param>
         public void update_Sites_Statues_label(string message, Color color)
         {
             try
@@ -959,13 +1036,18 @@ namespace TETRA_Coverage_Monitor
 
         #region loading bar
         public delegate void Change_site_loading_bar_percentage_delegate(int value);
-        public void change_Site_loadingbar_percentage_async(int value)
+
+        /// <summary>
+        /// changes the loading bar percentage value
+        /// </summary>
+        /// <param name="value"> value of the loading bar</param>
+        public void change_Site_loading_bar_percentage_async(int value)
         {
             try
             {
                 if (circularProgressBar_site_panel.InvokeRequired)
                 {
-                    circularProgressBar_site_panel.Invoke(new Change_site_loading_bar_percentage_delegate(change_Site_loadingbar_percentage_async), new object[] { value });
+                    circularProgressBar_site_panel.Invoke(new Change_site_loading_bar_percentage_delegate(change_Site_loading_bar_percentage_async), new object[] { value });
                 }
                 else
                 {
@@ -981,6 +1063,11 @@ namespace TETRA_Coverage_Monitor
 
         #region treeview
         public delegate void load_comboBox_Zone_ID_Sites_Tab_delegate(Zone[] Zones_Array);
+
+        /// <summary>
+        /// load the Zones IDs into the Combobox from the Array Provided
+        /// </summary>
+        /// <param name="Zones_Array">Array of Zone </param>
         public void load_comboBox_Zone_ID_Sites_Tab(Zone[] Zones_Array)
         {
             if (comboBox_Zone_ID_Sites_Tab.InvokeRequired)
@@ -1006,6 +1093,10 @@ namespace TETRA_Coverage_Monitor
         }
 
         public delegate void load_trv_TETRASites_Sites_Tab_delegate();
+
+        /// <summary>
+        /// load the Sites from the Array Sites and Display them on the treeview and load the combo box Sites names with the current Sites 
+        /// </summary>
         public void load_trv_TETRASites_Sites_Tab()
         {
             try
@@ -1176,6 +1267,11 @@ namespace TETRA_Coverage_Monitor
 
         #region other functions
 
+
+        /// <summary>
+        /// Shows the Information of the selected Site on the details panel of the Sites tab
+        /// </summary>
+        /// <param name="selected_site"> Site selected in the treeview Sites tab</param>
         public void Show_Sites_Fields(Sites selected_site)
         {
             try
@@ -1210,6 +1306,12 @@ namespace TETRA_Coverage_Monitor
                 Auditing.Error(ex.Message);
             }
         }
+
+
+        /// <summary>
+        /// opens thread to insert the new Site into the database  
+        /// </summary>
+        /// <param name="new_site">Information of the Site form the details panel</param>
         public void Add_Site(Sites new_site)
         {
             try
@@ -1234,6 +1336,11 @@ namespace TETRA_Coverage_Monitor
                 Auditing.Error(ex.Message);
             }
         }
+
+        /// <summary>
+        /// opens thread to delete selected Site from the database
+        /// </summary>
+        /// <param name="siteid">ID of the Site to be deleted</param>
         public void Delete_Site(int siteid)
         {
             try
@@ -1263,12 +1370,17 @@ namespace TETRA_Coverage_Monitor
                 Auditing.Error(ex.Message);
             }
         }
-        public void Edit_Site(Sites updated_site)
+
+        /// <summary>
+        /// opens thread to update the selected Site with the new information on the details panel on Sites tab
+        /// </summary>
+        /// <param name="Selected_site">Site selected in the Sites tab</param>
+        public void Edit_Site(Sites Selected_site)
         {
             try
             {
                 loading_bar_site_panel_thread();
-                bool check = WS_Control_obj.Edit_site(Code.Singleton.user_obj.Username, Code.Singleton.user_obj.Password, updated_site.Site_ID, updated_site);
+                bool check = WS_Control_obj.Edit_site(Code.Singleton.user_obj.Username, Code.Singleton.user_obj.Password, Selected_site.Site_ID, Selected_site);
                 if (check)
                 {
                     Sites = WS_Control_obj.Select_all_sites(Code.Singleton.user_obj.Username, Code.Singleton.user_obj.Password);
@@ -1289,6 +1401,10 @@ namespace TETRA_Coverage_Monitor
                 End_loading_bar_thread = true;
             }
         }
+
+        /// <summary>
+        /// Search the Sites array by Name input on the Site tab , select that SIte and display the information of the selected Site
+        /// </summary>
         public void Search_Sites()
         {
             try
@@ -1298,7 +1414,7 @@ namespace TETRA_Coverage_Monitor
                 foreach (TreeNode node in trv_TETRASites_Sites_Tab.Nodes[0].Nodes)
                 {
 
-                    if (node.Text == dropdownlist_search_sites_sites_tab.Text)
+                    if (node.Text == drop_down_list_search_sites_sites_tab.Text)
                     {
                         #region clear fields
                         lbl_txt_Site_ID_Sites_Tab.Text = "";
@@ -1311,7 +1427,7 @@ namespace TETRA_Coverage_Monitor
                         txt_Height_Sites_Tab.Text = "";
                         txt_INFO_Sites_Tab.Text = "";
                         txt_Cellid_Sites_Tab.Text = "";
-                        dropdownlist_search_sites_sites_tab.Text = "";
+                        drop_down_list_search_sites_sites_tab.Text = "";
 
                         #endregion
 
@@ -1350,46 +1466,25 @@ namespace TETRA_Coverage_Monitor
                 Auditing.Error(ex.Message);
             }
         }
-        public string get_site_name(int id)
-        {
-            foreach (Sites site in Sites)
-            {
-                if (id == site.Site_ID)
-                {
-                    return site.Site_Name;
-                }
-            }
-            return "";
-        }
-        private void site_names_list_DropDown(object sender, EventArgs e)
-        {
-            List<string> nameslist = new List<string>();
-            string substring = dropdownlist_search_sites_sites_tab.Text;
 
-            if (dropdownlist_search_sites_sites_tab.Text != "")
-            {
-                foreach (Sites site in Sites)
-                {
-                    if (site.Site_Name.StartsWith(substring))
-                    {
-                        nameslist.Add(site.Site_Name);
-                    }
-                }
-                dropdownlist_search_sites_sites_tab.DataSource = nameslist;
-            }
-
-        }
+        /// <summary>
+        ///  cycle the loading bar value form 0 to 100% until the operation is done 
+        /// </summary>
         public void sites_loading_bar_progress()
         {
             while (!End_loading_bar_thread)
             {
                 Thread.Sleep(1000);
-                change_Site_loadingbar_percentage_async(100);
+                change_Site_loading_bar_percentage_async(100);
                 Thread.Sleep(1000);
-                change_Site_loadingbar_percentage_async(0);
+                change_Site_loading_bar_percentage_async(0);
             }
 
         }
+
+        /// <summary>
+        /// opens thread to cycle the loading bar
+        /// </summary>
         public void loading_bar_site_panel_thread()
         {
             try
@@ -1606,7 +1701,7 @@ namespace TETRA_Coverage_Monitor
                         }
                     }
                     //neigbhours
-                    get_neightbour_Sites(selected_radio);
+                    get_neightbour_Sites_and_Signal_Strength(selected_radio);
                     show_current_Volume();
                     show_current_talkgroup();
 
@@ -1643,6 +1738,10 @@ namespace TETRA_Coverage_Monitor
 
         #region  treeview
         public delegate void load_trv_TETRARadios_Radios_Tab_delegate();
+
+        /// <summary>
+        /// load the Radios from the Array Radios and Display them on the treeview  
+        /// </summary>
         public void load_trv_TETRARadios_Radios_Tab()
         {
             try
@@ -1790,21 +1889,26 @@ namespace TETRA_Coverage_Monitor
         }
 
         public delegate void get_site_neightbours_delegate(Radios radio);
-        public void get_neightbour_Sites(Radios radio)
+
+        /// <summary>
+        /// get the neightbour Sites of the selected radio , their signal Strength in Dbm and views them in a text box on details panel
+        /// </summary>
+        /// <param name="selected_radio">selected Radio from the treeview </param>
+        public void get_neightbour_Sites_and_Signal_Strength(Radios selected_radio)
         {
             try
             {
                 if (txt_neighbours_radios_tab.InvokeRequired)
                 {
-                    txt_neighbours_radios_tab.Invoke(new get_site_neightbours_delegate(get_neightbour_Sites));
+                    txt_neighbours_radios_tab.Invoke(new get_site_neightbours_delegate(get_neightbour_Sites_and_Signal_Strength));
                 }
                 else
                 {
 
-                    Radios selected_radio = (Radios)trv_TETRARadios_Radios_Tab.SelectedNode.Tag;
-                    if (selected_radio.gpsPosition != null)
+                    Radios selected_radio_Data = (Radios)trv_TETRARadios_Radios_Tab.SelectedNode.Tag;
+                    if (selected_radio_Data.gpsPosition != null)
                     {
-                        Logs[] radio_logs = WS_Control_obj.Get_logs_filtered_by_Pos_ID(Code.Singleton.user_obj.Username, Code.Singleton.user_obj.Password, radio.gpsPosition.Pos_ID);
+                        Logs[] radio_logs = WS_Control_obj.Get_logs_filtered_by_Pos_ID(Code.Singleton.user_obj.Username, Code.Singleton.user_obj.Password, selected_radio_Data.gpsPosition.Pos_ID);
                         if (radio_logs != null)
                         {
                             foreach (Logs log in radio_logs)
@@ -1814,7 +1918,7 @@ namespace TETRA_Coverage_Monitor
 
                                     if (site.Site_ID == log.Site_ID)
                                     {
-                                        if (selected_radio.Site_ID == site.Site_ID)
+                                        if (selected_radio_Data.Site_ID == site.Site_ID)
                                         {
                                             int site_rssi = Convert.ToInt32(log.RSSI);
                                             string dbm_value = Esri_control.convert_rssi_to_dbm_value(site_rssi);
@@ -1840,12 +1944,17 @@ namespace TETRA_Coverage_Monitor
                 Auditing.Error(ex.Message);
             }
         }
-
         #endregion
 
         #region status label
 
         public delegate void Change_Status_Label_Radios_delegate(string message, Color color);
+
+        /// <summary>
+        /// writes the status label message and views it on display
+        /// </summary>
+        /// <param name="message"> string text message that appears</param>
+        /// <param name="color"> system.drawing.color of the message</param>
         public void update_Radios_Statues_label(string message, Color color)
         {
             try
@@ -1870,13 +1979,18 @@ namespace TETRA_Coverage_Monitor
         #region loading bar
 
         public delegate void Change_radio_loading_bar_percentage_delegate(int value);
-        public void change_radio_loadingbar_percentage(int value)
+
+        /// <summary>
+        /// changes the loading bar percentage value
+        /// </summary>
+        /// <param name="value"> value of the loading bar</param>
+        public void change_radio_loading_bar_percentage(int value)
         {
             try
             {
                 if (circularProgressBar_radio_panel.InvokeRequired)
                 {
-                    circularProgressBar_radio_panel.Invoke(new Change_radio_loading_bar_percentage_delegate(change_radio_loadingbar_percentage), new object[] { value });
+                    circularProgressBar_radio_panel.Invoke(new Change_radio_loading_bar_percentage_delegate(change_radio_loading_bar_percentage), new object[] { value });
                 }
                 else
                 {
@@ -1892,6 +2006,10 @@ namespace TETRA_Coverage_Monitor
 
         #region radio type combobox
         public delegate void get_radio_type_from_combobox_type_delegate();
+
+        /// <summary>
+        /// gets the Radio type (string) from the radio data and sets the public attribute radio type
+        /// </summary>
         public void get_Radio__type_from_Combobox()
         {
             if (comboBox_Radio_type_Radios_tab.InvokeRequired)
@@ -1918,6 +2036,11 @@ namespace TETRA_Coverage_Monitor
 
         #region other functions
 
+
+        /// <summary>
+        /// opens thread to insert the new Radio into the database  
+        /// </summary>
+        /// <param name="new_radio">information collected from the details panel</param>
         public void Add_Radio(Radios new_radio)
         {
             try
@@ -1943,6 +2066,10 @@ namespace TETRA_Coverage_Monitor
                 Auditing.Error(ex.Message);
             }
         }
+
+        /// <summary>
+        /// opens thread to delete selected Radio from the database
+        /// </summary>
         public void Delete_radio(int radio_id)
         {
             try
@@ -1968,12 +2095,17 @@ namespace TETRA_Coverage_Monitor
                 Auditing.Error(ex.Message);
             }
         }
-        public void Edit_Radio(Radios Updated_Radio)
+
+        /// <summary>
+        /// opens thread to update the selected Radio with the new information on the details panel on Radios tab
+        /// </summary>
+        /// <param name="Selected_Radio">Radio selected in the Radio tab</param>
+        public void Edit_Radio(Radios Selected_Radio)
         {
             try
             {
                 loading_bar_radio_panel_thread();
-                bool check = WS_Control_obj.Edit_radio(Code.Singleton.user_obj.Username, Code.Singleton.user_obj.Password, Updated_Radio.Radio_ID, Updated_Radio);
+                bool check = WS_Control_obj.Edit_radio(Code.Singleton.user_obj.Username, Code.Singleton.user_obj.Password, Selected_Radio.Radio_ID, Selected_Radio);
                 if (check)
                 {
                     radios = WS_Control_obj.Select_all_radios(Code.Singleton.user_obj.Username, Code.Singleton.user_obj.Password);
@@ -1992,6 +2124,10 @@ namespace TETRA_Coverage_Monitor
                 Auditing.Error(ex.Message);
             }
         }
+
+        /// <summary>
+        /// Search the Radios array by ISSI input on the Radios tab , select that Radio and display the information of the selected radio
+        /// </summary>
         public void Search_Radios()
         {
             int Issi_key;
@@ -2044,8 +2180,16 @@ namespace TETRA_Coverage_Monitor
                             txt_INFO_Radios_Tab.Text = selected_radio.Info.ToString();
 
                             comboBox_Radio_type_Radios_tab.Text = selected_radio.Radio_Type;
-                            CB_City_Radios_tab.Text = get_city_name(selected_radio.CityID);
-
+                            #region get city name
+                            foreach (City city in Cities)
+                            {
+                                if (selected_radio.CityID == city.CityID)
+                                {
+                                    CB_City_Radios_tab.Text = city.CityName;
+                                    break;
+                                }
+                            }
+                            #endregion
                             show_current_Volume();
                             show_current_talkgroup();
                             update_Radios_Statues_label(Code.Singleton.Opertation_Successful_Message, Color.Green);
@@ -2069,13 +2213,21 @@ namespace TETRA_Coverage_Monitor
                 Auditing.Error(ex.Message);
             }
         }
+
+        /// <summary>
+        ///  cycle the loading bar value form 0 to 100% until the operation is done 
+        /// </summary>
         public void radios_loading_bar_progress()
         {
             Thread.Sleep(1000);
-            change_radio_loadingbar_percentage(100);
+            change_radio_loading_bar_percentage(100);
             Thread.Sleep(1000);
-            change_radio_loadingbar_percentage(0);
+            change_radio_loading_bar_percentage(0);
         }
+
+        /// <summary>
+        /// opens thread to cycle the loading bar
+        /// </summary>
         public void loading_bar_radio_panel_thread()
         {
             try
@@ -2138,7 +2290,7 @@ namespace TETRA_Coverage_Monitor
         }
         private void SB_btn_Request_radio_location_Tab_Click(object sender, EventArgs e)
         {
-            Thread request_location_thread = new Thread(request_location_request);
+            Thread request_location_thread = new Thread(GPS_location_request);
             request_location_thread.Start();
             End_loading_bar_thread = false;
         }
@@ -2160,6 +2312,10 @@ namespace TETRA_Coverage_Monitor
 
         #region Delegates
         public delegate void Change_Volume_from_combobox_delegate();
+
+        /// <summary>
+        /// Edit Selected Radio on the treeview with flag Client_R_Volum_Flag on and change radio color on treeview
+        /// </summary>
         public void change_volume_request()
         {
             try
@@ -2198,6 +2354,10 @@ namespace TETRA_Coverage_Monitor
         }
 
         public delegate void change_talkgroup_request_delegate();
+
+        /// <summary>
+        /// Edit Selected Radio on the treeview with flag Client_R_C_TG_Flag on and change radio color on treeview
+        /// </summary>
         public void change_talkgroup_request()
         {
             try
@@ -2209,7 +2369,6 @@ namespace TETRA_Coverage_Monitor
                 else
                 {
                     Radios selected_radio = (Radios)trv_TETRARadios_Radios_Tab.SelectedNode.Tag;
-                    selected_radio.Client_R_C_TG_Flag = 1;
                     foreach (Channels channel in selected_radio.channelsCollection)
                     {
                         string selected_talkgroup_from_combobox = SB_TalkGroups_CB_Radios_Tab.SelectedItem.Text;
@@ -2238,6 +2397,10 @@ namespace TETRA_Coverage_Monitor
         }
 
         public delegate void turn_off_radio_request_delegate();
+
+        /// <summary>
+        /// Edit Selected Radio on the treeview with flag Client_R_Switch_Off_Flag on and change radio color on treeview
+        /// </summary>
         public void turnoff_radio_request()
         {
             try
@@ -2268,6 +2431,10 @@ namespace TETRA_Coverage_Monitor
         }
 
         public delegate void open_mic_request_delegate();
+
+        /// <summary>
+        /// Edit Selected Radio on the treeview with flag Client_R_I_Call_Flag on and change radio color on treeview
+        /// </summary>
         public void open_mic_radio_request()
         {
             try
@@ -2298,13 +2465,17 @@ namespace TETRA_Coverage_Monitor
         }
 
         public delegate void request_location_delegate();
-        public void request_location_request()
+
+        /// <summary>
+        /// Edit Selected Radio on the treeview with flag Client_R_GPS_Flag on and change radio color on treeview
+        /// </summary>
+        public void GPS_location_request()
         {
             try
             {
                 if (trv_TETRARadios_Radios_Tab.InvokeRequired)
                 {
-                    trv_TETRARadios_Radios_Tab.Invoke(new request_location_delegate(request_location_request));
+                    trv_TETRARadios_Radios_Tab.Invoke(new request_location_delegate(GPS_location_request));
                 }
                 else
                 {
@@ -2328,10 +2499,13 @@ namespace TETRA_Coverage_Monitor
             }
         }
 
-
         #endregion
 
         #region Other Functions
+
+        /// <summary>
+        /// show selected radio volume on the status bar 
+        /// </summary>
         public void show_current_Volume()
         {
             try
@@ -2348,6 +2522,10 @@ namespace TETRA_Coverage_Monitor
             }
 
         }
+
+        /// <summary>
+        /// load selected radio talkgroups in the combobox in the status bar
+        /// </summary>
         public void Load_combobox_talkgroups()
         {
             try
@@ -2388,6 +2566,10 @@ namespace TETRA_Coverage_Monitor
             }
 
         }
+
+        /// <summary>
+        /// show selected radio current talkgroup on the status bar
+        /// </summary>
         public void show_current_talkgroup()
         {
             try
@@ -2422,6 +2604,12 @@ namespace TETRA_Coverage_Monitor
             }
 
         }
+
+        /// <summary>
+        /// return true if the radio flags are all off and return false otherwise
+        /// </summary>
+        /// <param name="radio">radio in check</param>
+        /// <returns></returns>
         public bool check_if_radio_flag_requests_are_off(Radios radio)
         {
             if (radio.Client_R_C_TG_Flag == 0 && radio.Client_R_GPS_Flag == 0 && radio.Client_R_Switch_Off_Flag == 0 && radio.Client_R_Volum_Flag == 0 && radio.Client_R_I_Call_Flag == 0)
@@ -2448,6 +2636,8 @@ namespace TETRA_Coverage_Monitor
         {
             try
             {
+                
+
                 #region spotting solution
                 if (option == 0)
                 {
@@ -2504,13 +2694,13 @@ namespace TETRA_Coverage_Monitor
                     else
                     {
                         //coverage point 
-                        foreach (Coverage_info info in Coverage_points_info)
+                        foreach (Esri_control.Coverage_info info in Esri_control.Coverage_points_info)
                         {
                             if (args.Graphic_Name == info.PosID.ToString())
                             {
                                 pnl_Coverage_point_info.Visible = true;
                                 pnl_Coverage_point_info.BringToFront();
-                                show_Coverage_point_info_onmap_panel(info);
+                                show_Coverage_point_info_on_map_panel(info);
 
                                 if (Tabview_TETRASites_Tab.Visible || Tabview_TETRARadios_Tab.Visible || Tabview_TETRA_Zones_Tab.Visible || Tabview_TETRACities_Tab.Visible)
                                 {//tab pages opned
@@ -2544,6 +2734,10 @@ namespace TETRA_Coverage_Monitor
 
         #region delegate
         public delegate void draw_sites_delegate();
+
+        /// <summary>
+        /// Draw all Sites in the Sites array on the map 
+        /// </summary>
         public void Draw_All_Sites()
         {
             try
@@ -2579,6 +2773,12 @@ namespace TETRA_Coverage_Monitor
         #endregion
 
         #region Other Functions
+
+
+        /// <summary>
+        /// shows the information of the Site tapped on in the map
+        /// </summary>
+        /// <param name="site">tapped on site on the map</param>
         public void show_Site_info_onMap_panel(Sites site)
         {
             lbl_Sitename_pnl_Site_onMap.Text = site.Site_Name;
@@ -2591,6 +2791,11 @@ namespace TETRA_Coverage_Monitor
             lbl_longt_pnl_Site_onMap.Text = site.Longitude.ToString();
             lbl_LA_pnl_Site_onMap.Text = site.LA;
         }
+
+        /// <summary>
+        /// shows the radio information of the tapped on radio on map
+        /// </summary>
+        /// <param name="radio">tapped on radio on map</param>
         public void show_Radio_info_onMap_panel(Radios radio)
         {
             lbl_txt_Radioname_pnl_Radio_onMap.Text = radio.Radio_Name;
@@ -2609,7 +2814,12 @@ namespace TETRA_Coverage_Monitor
                 }
             }
         }
-        public void show_Coverage_point_info_onmap_panel(Coverage_info info)
+
+        /// <summary>
+        /// shows the information of the tapped on coverage point on map
+        /// </summary>
+        /// <param name="info">the coverage point info</param>
+        public void show_Coverage_point_info_on_map_panel(Esri_control.Coverage_info info)
         {
             txt_lbl_sitename_coverage_pnl.Text = info.Site_Name;
             txt_llbl_issi_coverage_pnl.Text = info.ISSI.ToString();
@@ -2620,75 +2830,12 @@ namespace TETRA_Coverage_Monitor
         #endregion
 
         #region Draw Covarage Panel
+
         public string Site_name;
-
-        #region drawing data collection
-
-        public void initialize_picture_boxes_colors()
-        {
-            string path = AppDomain.CurrentDomain.BaseDirectory + @"Files\colors.txt";
-            StreamReader stream = new StreamReader(path);
-            string file_data = stream.ReadToEnd();
-            int counter = 0;
-            System.Drawing.Color[] list = new System.Drawing.Color[32];
-            foreach (string line in System.IO.File.ReadLines(path))
-            {
-                string[] line_no_space = line.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
-                list[counter] = System.Drawing.Color.FromName(line_no_space[0]);
-                counter++;
-            }
-            pic_c_1.BackColor = list[0];
-            pic_c_2.BackColor = list[1];
-            pic_c_3.BackColor = list[2];
-            pic_c_4.BackColor = list[3];
-            pic_c_5.BackColor = list[4];
-            pic_c_6.BackColor = list[5];
-            pic_c_7.BackColor = list[6];
-            pic_c_8.BackColor = list[7];
-            pic_c_9.BackColor = list[8];
-            pic_c_10.BackColor = list[9];
-            pic_c_11.BackColor = list[10];
-            pic_c_12.BackColor = list[11];
-            pic_c_13.BackColor = list[12];
-            pic_c_14.BackColor = list[13];
-            pic_c_15.BackColor = list[14];
-            pic_c_16.BackColor = list[15];
-            pic_c_17.BackColor = list[16];
-            pic_c_18.BackColor = list[17];
-            pic_c_19.BackColor = list[18];
-            pic_c_20.BackColor = list[19];
-            pic_c_21.BackColor = list[20];
-            pic_c_22.BackColor = list[21];
-            pic_c_23.BackColor = list[22];
-            pic_c_24.BackColor = list[23];
-            pic_c_25.BackColor = list[24];
-            pic_c_26.BackColor = list[25];
-            pic_c_27.BackColor = list[26];
-            pic_c_28.BackColor = list[27];
-            pic_c_29.BackColor = list[28];
-            pic_c_30.BackColor = list[29];
-            pic_c_31.BackColor = list[30];
-            pic_c_32.BackColor = list[31];
-        }
-        public List<double> ids = new List<double>();
-
-
-        #endregion
-
-
         public DateTime start_date;
         public DateTime end_date;
         public string radio_type;
         public int siteid = 0;
-        public struct Coverage_info
-        {
-            public string Site_Name;
-            public int ISSI;
-            public float RSSI;
-            public int PosID;
-            public string dbm_value;
-        }
-        public List<Coverage_info> Coverage_points_info = new List<Coverage_info>();
 
         #region events
 
@@ -2782,6 +2929,11 @@ namespace TETRA_Coverage_Monitor
         #region Delagate
 
         public delegate void coverage_draw_polygons_for_one_site_delegate(List<Logs> logs_list);
+
+        /// <summary>
+        /// call esri control function to draw polygons of one site according to the data from the logs list 
+        /// </summary>
+        /// <param name="logs_list">list of logs from the database</param>
         public void draw_coverage_polygons_for_one_site(List<Logs> logs_list)
         {
             try
@@ -2818,7 +2970,11 @@ namespace TETRA_Coverage_Monitor
         }
 
         public delegate void coverage_draw_points_delegate(List<Logs> logs_list);
-        //for one site and for all sites
+
+        /// <summary>
+        /// call esri control functions to draw coverage points of one site or multiple sites according to the logs list 
+        /// </summary>
+        /// <param name="logs_list">list of logs from the database</param>
         public void draw_coverage_points(List<Logs> logs_list)
         {
             try
@@ -2848,13 +3004,35 @@ namespace TETRA_Coverage_Monitor
                                 lattitude_list.Add(log.GPS_Position.Latitude);
                                 longtitude_list.Add(log.GPS_Position.Longitude);
                                 site_id_list.Add(log.Site_ID);
-                                int issi = get_issi_from_radio_id(log.GPS_Position.Radio_ID);
-                                ISSI_list.Add(issi);
-                                string sitename = get_sitename_from_site_id(log.Site_ID);
-                                Sitename_list.Add(sitename);                                
+
+                                #region get issi
+                                int issi;
+                                foreach (Radios radio in radios)
+                                {
+                                    if (log.GPS_Position.Radio_ID == radio.Radio_ID)
+                                    {
+                                        issi= radio.ISSI;
+                                        ISSI_list.Add(issi);
+                                        break;
+                                    }
+                                }
+                                #endregion
+
+                                #region get sitename
+                                string sitename;
+
+                                foreach (Sites site in Sites)
+                                {
+                                    if (log.Site_ID == site.Site_ID)
+                                    {
+                                        sitename= site.Site_Name;
+                                        Sitename_list.Add(sitename);
+                                        break;
+                                    }
+                                }
+                                #endregion
                             }
                         }
-
                     }
                     Esri_control.draw_points_for_one_site(Pos_id_list, RSSI_list, lattitude_list, longtitude_list, site_id_list, ISSI_list, Sitename_list);
                 }
@@ -2868,6 +3046,11 @@ namespace TETRA_Coverage_Monitor
         }
 
         public delegate void coverage_draw_Polygons_for_all_sites_delegate(List<List<Logs>> logs_list_collection);
+
+        /// <summary>
+        /// call esri control functions to draw polygons of multiple sites according to the logslist collection data
+        /// </summary>
+        /// <param name="logs_list_collection">list of logs_lists that contain logs of the data base for multiple sites</param>
         public void draw_coverage_polygons_for_all_sites(List<List<Logs>> logs_list_collection)
         {
             try
@@ -2893,6 +3076,11 @@ namespace TETRA_Coverage_Monitor
 
         #region combobox
         public delegate void load_comboBox_Choose_site_coverage_panel_delegate(Sites[] sites_array);
+
+        /// <summary>
+        /// load the Site choose combo box with sites from the Sites array given
+        /// </summary>
+        /// <param name="sites_Array">array of Sites </param>
         public void load_comboBox_Choose_site_for_coverage(Sites[] sites_Array)
         {
             if (comboBox_Choose_site_coverage.InvokeRequired)
@@ -2923,13 +3111,16 @@ namespace TETRA_Coverage_Monitor
         }
         #endregion
 
-
         #region loading bar
 
         public int drawing_pbar_value = 0;
 
         public delegate void change_drawing_progress_bar_date_pnl_percentage_delegate(int value);
 
+        /// <summary>
+        /// change the value of the loading bar 
+        /// </summary>
+        /// <param name="value">value of the loading bar</param>
         public void change_drawing_progress_bar_date_pnl_percentage(int value)
         {
             try
@@ -2955,6 +3146,60 @@ namespace TETRA_Coverage_Monitor
         #endregion
 
         #region other functions
+
+        /// <summary>
+        ///  set the picture boxes colours in the coverage panel according to the text file colors
+        /// </summary>
+        public void Set_picture_boxes_colors()
+        {
+            string path = AppDomain.CurrentDomain.BaseDirectory + @"Files\colors.txt";
+            StreamReader stream = new StreamReader(path);
+            string file_data = stream.ReadToEnd();
+            int counter = 0;
+            System.Drawing.Color[] list = new System.Drawing.Color[32];
+            foreach (string line in System.IO.File.ReadLines(path))
+            {
+                string[] line_no_space = line.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+                list[counter] = System.Drawing.Color.FromName(line_no_space[0]);
+                counter++;
+            }
+            pic_c_1.BackColor = list[0];
+            pic_c_2.BackColor = list[1];
+            pic_c_3.BackColor = list[2];
+            pic_c_4.BackColor = list[3];
+            pic_c_5.BackColor = list[4];
+            pic_c_6.BackColor = list[5];
+            pic_c_7.BackColor = list[6];
+            pic_c_8.BackColor = list[7];
+            pic_c_9.BackColor = list[8];
+            pic_c_10.BackColor = list[9];
+            pic_c_11.BackColor = list[10];
+            pic_c_12.BackColor = list[11];
+            pic_c_13.BackColor = list[12];
+            pic_c_14.BackColor = list[13];
+            pic_c_15.BackColor = list[14];
+            pic_c_16.BackColor = list[15];
+            pic_c_17.BackColor = list[16];
+            pic_c_18.BackColor = list[17];
+            pic_c_19.BackColor = list[18];
+            pic_c_20.BackColor = list[19];
+            pic_c_21.BackColor = list[20];
+            pic_c_22.BackColor = list[21];
+            pic_c_23.BackColor = list[22];
+            pic_c_24.BackColor = list[23];
+            pic_c_25.BackColor = list[24];
+            pic_c_26.BackColor = list[25];
+            pic_c_27.BackColor = list[26];
+            pic_c_28.BackColor = list[27];
+            pic_c_29.BackColor = list[28];
+            pic_c_30.BackColor = list[29];
+            pic_c_31.BackColor = list[30];
+            pic_c_32.BackColor = list[31];
+        }
+
+        /// <summary>
+        /// gets the logs from the database and calls the draw function 
+        /// </summary>
         public void draw_coverage_for_all_sites_as_polygon()
         {
             drawing_loading_bar_thread();
@@ -2986,6 +3231,9 @@ namespace TETRA_Coverage_Monitor
                 Auditing.Error(ex.Message);
             }
         }
+        /// <summary>
+        /// gets the logs from the database and calls the draw function 
+        /// </summary>
         public void coverage_draw_one_Site_as_polygon()
         {
             try
@@ -3003,6 +3251,9 @@ namespace TETRA_Coverage_Monitor
                 Auditing.Error(ex.Message);
             }
         }
+        /// <summary>
+        /// gets the logs from the database and calls the draw function 
+        /// </summary>
         public void coverage_draw_one_Site_as_points()
         {
             drawing_loading_bar_thread();
@@ -3020,6 +3271,9 @@ namespace TETRA_Coverage_Monitor
                 Auditing.Error(ex.Message);
             }
         }
+        /// <summary>
+        /// gets the logs from the database and calls the draw function 
+        /// </summary>
         public void draw_coverage_for_all_sites_as_points()
         {
             drawing_loading_bar_thread();
@@ -3034,31 +3288,12 @@ namespace TETRA_Coverage_Monitor
                 Auditing.Error(ex.Message);
             }
         }
-        public int get_issi_from_radio_id(int radio_id)
-        {
-            foreach(Radios radio in radios)
-            {
-                if (radio_id == radio.Radio_ID)
-                {
-                    return radio.ISSI;
-                }
-
-            }
-            return 0;
-        }
-        public string get_sitename_from_site_id(int site_id)
-            {
-                foreach(Sites site in Sites)
-                {
-                    if (site_id == site.Site_ID)
-                    {
-                        return site.Site_Name;
-                    }
-                }
-                return "";
-            }
 
         #region drawing loading bar
+
+        /// <summary>
+        /// change the value of the loading bar in drawing panel until it reaches 100
+        /// </summary>
         public void drawing_loading_bar_progress()
         {
             while (!End_loading_bar_thread)
@@ -3078,7 +3313,9 @@ namespace TETRA_Coverage_Monitor
             }
 
         }
-
+        /// <summary>
+        /// create a thread that progresses the loading bar
+        /// </summary>
         public void drawing_loading_bar_thread()
         {
             try
@@ -3231,6 +3468,10 @@ namespace TETRA_Coverage_Monitor
 
         #region treeview
         public delegate void load_trv_TETRACities_Cities_Tab_delegate();
+
+        /// <summary>
+        /// load the Cities from the Array Cities and Display them on the treeview and load the combo box City name with the current Cities 
+        /// </summary>
         public void load_trv_TETRACities_Cities_Tab()
         {
             try
@@ -3404,6 +3645,12 @@ namespace TETRA_Coverage_Monitor
 
         #region status label
         public delegate void Change_Status_Label_Cities_delegate(string message, Color color);
+
+        /// <summary>
+        /// writes the status label message and views it on display
+        /// </summary>
+        /// <param name="message"> string text message that appears</param>
+        /// <param name="color"> system.drawing.color of the message</param>
         public void update_Cities_Statues_label(string message, Color color)
         {
             try
@@ -3427,6 +3674,11 @@ namespace TETRA_Coverage_Monitor
 
         #region loading bar
         public delegate void Change_City_loading_bar_percentage(int value);
+
+        /// <summary>
+        /// changes the loading bar percentage value
+        /// </summary>
+        /// <param name="value"> value of the loading bar</param>
         public void change_City_loadingbar_percentage(int value)
         {
             try
@@ -3450,6 +3702,10 @@ namespace TETRA_Coverage_Monitor
 
         #region combobox
         public delegate void load_comboBox_City_ID_Radios_Tab_delegate();
+
+        /// <summary>
+        /// load city names from the cities array into combobox cities
+        /// </summary>
         public void load_comboBox_City_Names_in_Radios_Tab()
         {
             if (CB_City_Radios_tab.InvokeRequired)
@@ -3480,6 +3736,11 @@ namespace TETRA_Coverage_Monitor
         #endregion
 
         #region other functions
+
+        /// <summary>
+        /// opens thread to insert the new city into the database  
+        /// </summary>
+        /// <param name="new_city">Information of the City from the details panel</param>
         public void Add_City(City new_city)
         {
             try
@@ -3506,6 +3767,11 @@ namespace TETRA_Coverage_Monitor
                 Auditing.Error(ex.Message);
             }
         }
+
+        /// <summary>
+        /// opens thread to delete selected City from the database
+        /// </summary>
+        /// <param name="city_id">ID of the City to be deleted</param>
         public void Delete_City(int city_id)
         {
             try
@@ -3531,6 +3797,11 @@ namespace TETRA_Coverage_Monitor
                 Auditing.Error(ex.Message);
             }
         }
+
+        /// <summary>
+        /// opens thread to update the selected City with the new information on the details panel on City tab
+        /// </summary>
+        /// <param name="Updated_City">City selected in the Cities tab</param>
         public void Edit_City(City Updated_City)
         {
             try
@@ -3556,6 +3827,10 @@ namespace TETRA_Coverage_Monitor
                 Auditing.Error(ex.Message);
             }
         }
+
+        /// <summary>
+        /// Search the Cities array by Name input on the City tab , select that CIty and display the information of the selected City
+        /// </summary>
         public void Search_City()
         {
             bool found = false;
@@ -3596,19 +3871,12 @@ namespace TETRA_Coverage_Monitor
                 Auditing.Error(ex.Message);
             }
         }       
-        public string get_city_name(int id)
-        {
-            foreach (City city in Cities)
-            {
-                if (id == city.CityID)
-                {
-                    return city.CityName;
-                }
-            }
-            return "none";
-        }
 
         #region loading bar
+
+        /// <summary>
+        /// opens thread to progress loading bar
+        /// </summary>
         public void loading_bar_City_panel_thread()
         {
             try
@@ -3622,12 +3890,20 @@ namespace TETRA_Coverage_Monitor
                 Auditing.Error(ex.Message);
             }
         }
+
+        /// <summary>
+        /// cycle the loading bar from 0 to 100 
+        /// </summary>
         public void Cities_loading_bar_progress()
         {
-            Thread.Sleep(1000);
-            change_City_loadingbar_percentage(100);
-            Thread.Sleep(1000);
-            change_City_loadingbar_percentage(0);
+
+            while (!End_loading_bar_thread)
+            {
+                Thread.Sleep(1000);
+                change_City_loadingbar_percentage(100);
+                Thread.Sleep(1000);
+                change_City_loadingbar_percentage(0);
+            }
         }
 
         #endregion
